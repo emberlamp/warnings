@@ -1,0 +1,14 @@
+{
+  "warning": "⚠️ Warning: This action may have unintended consequences.",
+  "caution": "⚡ Caution: Please proceed carefully.",
+  "alert": "🚨 Alert: Immediate attention required.",
+  "error": "❌ Error: An unexpected error occurred.",
+  "fail": "💥 Operation failed. Please try again.",
+  "denied": "🚫 Access denied. You don't have permission.",
+  "info": "ℹ️ Information:",
+  "notice": "📢 Notice:",
+  "tip": "💡 Tip:",
+  "loading": "⏳ Loading...",
+  "pending": "🔄 Pending...",
+  "success": "✅ Success!"
+}
