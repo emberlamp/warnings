@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/warnings/main/.github/assets/thumbnail.png" alt="warnings" width="100%">
+</p>
+
 # Warnings Repository
 
 This repository contains warning and alert messages for slash commands.
